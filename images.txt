@@ -12,5 +12,4 @@ m4th1eub/photopea-offline
 frooodle/s-pdf
 amilys/embyserver
 xhongc/music_tag_web
-0nlylty/dockercopilot
 stainless403/mdcx-builtin-gui-base
