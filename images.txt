@@ -9,3 +9,4 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 kingmo888/rustdesk-api-server
 m4th1eub/photopea-offline
+frooodle/s-pdf
