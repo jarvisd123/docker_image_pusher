@@ -15,3 +15,4 @@ xhongc/music_tag_web
 stainless403/mdcx-builtin-gui-base
 dreamacro/clash
 dreamacro/clash-premium
+superng6/qbittorrentee
