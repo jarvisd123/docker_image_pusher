@@ -17,4 +17,4 @@ dreamacro/clash
 dreamacro/clash-premium
 superng6/qbittorrentee
 linuxserver/qbittorrent
-0nlylty/dockercopilot:UGREEN
+0nlylty/dockercopilot:ZSPACE
